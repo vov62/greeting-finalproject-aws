@@ -1,0 +1,36 @@
+local test area-
+Save this updated code in a file, run it, and visit http:
+//127.0.0.1:5000/
+to see the new functionality in action.
+
+
+-----------------
+Creating a Python virtual environment in Linux is a straightforward process.
+
+If Flask is not installed, you can install it using pip:
+  pip install flask (Version: 3.1.0)
+
+
+-----------------
+what was build in this python code using flask -
+
+Welcome to Our Service
+
+1. Receive a greeting card
+     asking the user - Would you like to receive a greeting card?
+       - if yes = show simple greeting card
+       - if no  = exit
+
+2.  See a calendar view with holidays
+       - show a calendar for December 2024.
+       - show holiday list.
+       - back to home
+
+3.  exit the app
+
+** you must choose something for submit.
+
+** if you just choose submit without anything (nothing will happen):
+     you will get this message = Please select an option before submitting the form.
+
+
